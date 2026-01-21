@@ -1,0 +1,47 @@
+{
+  "type": "component",
+  "name": "github-test",
+  "children": [
+    {
+      "name": "h1",
+      "nodeName": "h1",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "Tjpksq"
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [
+        {
+          "name": "text",
+          "nodeName": "text",
+          "textContent": "h1",
+          "evaluate": false
+        }
+      ],
+      "comments": ""
+    }
+  ],
+  "variables": [],
+  "bindings": [],
+  "modules": [],
+  "styles": [],
+  "localStylesheets": [
+    {
+      "path": "test.css"
+    }
+  ]
+}
